@@ -1,2 +1,2 @@
 # courses
-a web-app where i trainet my design skills
+a web-app where i trained my design skills
